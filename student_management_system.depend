@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1779544525 source:d:\project\student_management_system\main.cpp
+	<iostream>
+	<mysql.h>
+
+1779176307 source:d:\project\student_management_system\project.cpp
+
